@@ -6,7 +6,7 @@ Check out the website: https://crop-disease-detection-2pqwsnxxefnzony6y95tr4.str
 ## 🚀 Live Demo & Deployment
 
 - **Streamlit Community Cloud:** Deployed via `app.py`
-- **GitHub Repository:** [ReshmiDitty/crop-disease-detection](https://github.com/ReshmiDitty/crop-disease-detection)
+- **GitHub Repository:** [ReshmiDitty/crop-disease-detection](https://github.com/rayaboinathirupathi/Crop_Disease_Detection.git)
 
 ## 🛠️ Features
 
